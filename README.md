@@ -17,7 +17,7 @@ I am a passionate Web Developer with a strong interest in ReactJS and Web Design
 
 ### [SOS Docs](#)
 
-![SOS Docs](/media/hp/107 GB Volume1/WebDev/Projects/portfolio/src/Assests/Project/SOSDoc.png)
+![SOS Docs](src/Assests/Project/SOSDoc.png)
 
 - **Description**: SOS Doc - Streamline Documentation Effortlessly. Create project papers in a snap with SOS Doc's smart document generation. Focus on what matters most – let your projects shine with hassle-free paperwork.
 - **Demo**: https://sos-docs.netlify.app/
@@ -33,7 +33,7 @@ I am a passionate Web Developer with a strong interest in ReactJS and Web Design
 
 ### [GiftBazar](#)
 
-![GiftBazar](/media/hp/107 GB Volume1/WebDev/Projects/portfolio/src/Assests/Project/GiftBazar.png)
+![GiftBazar](src/Assests/Project/GiftBazar.png)
 
 - **Description**: GiftBazar: Your go-to gift store online. Find delightful surprises for every celebration. Explore a world of creative presents, making thoughtful gestures easier than ever.
 - **Demo**: https://e-giftbazar.netlify.app/
@@ -41,7 +41,7 @@ I am a passionate Web Developer with a strong interest in ReactJS and Web Design
 
 ### [Taskio](#)
 
-![Taskio](/media/hp/107 GB Volume1/WebDev/Projects/portfolio/src/Assests/Project/Taskio.png)
+![Taskio](src/Assests/Project/Taskio.png)
 
 - **Description**: Efficiently manage tasks with Taskio, a sleek task manager website. Stay organized, prioritize activities, and boost productivity effortlessly. Simplify your workflow and achieve more with Taskio's user-friendly interface.
 - **Demo**: https://tskio.netlify.app/
@@ -49,7 +49,7 @@ I am a passionate Web Developer with a strong interest in ReactJS and Web Design
 
 ### [Well Words](#)
 
-![Well Words](/media/hp/107 GB Volume1/WebDev/Projects/portfolio/src/Assests/Project/WellWords.png)
+![Well Words](src/Assests/Project/WellWords.png)
 
 - **Description**: Unveil wisdom effortlessly through WellWords - your go-to advice generator online. Elevate your decision-making with a tap. Experience clarity and empowerment with WellWords!
 - **Demo**: https://well-words.netlify.app/
@@ -57,7 +57,7 @@ I am a passionate Web Developer with a strong interest in ReactJS and Web Design
 
 ### [County Zone](#)
 
-![County Zone](/media/hp/107 GB Volume1/WebDev/Projects/portfolio/src/Assests/Project/CountyZone.png)
+![County Zone](src/Assests/Project/CountyZone.png)
 
 - **Description**: Countdown to 2024 with County Zone! Our innovative timer. Stay connected globally as we celebrate together across different time zones. Share the excitement and welcome 2024 with friends worldwide.
 - **Demo**: https://county-zone.netlify.app/
