@@ -1,0 +1,54 @@
+.links_container {
+    padding: 3rem 0rem; 
+    margin: 0 auto;
+}
+
+.links_logo {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+.links_title {
+    font-size: 1.8rem;
+    font-weight: 600;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+.footer_headline {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto -0.5rem;
+    font-family: 'Pathway Extreme', sans-serif;
+    font-weight: 600;
+    font-size: 1.8rem;
+}
+
+.related_links {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    margin-top: 3rem;
+    margin-left: -2rem;
+}
+
+.nav-link {
+    color: black;
+    font-weight: 600;
+  font-family: 'Pathway Extreme', sans-serif;
+
+}
+
+.nav-link:hover {
+    color: linear-gradient(
+    to left,
+    #FF0059,
+    #FFCB00,
+    #00CF68
+  );
+}

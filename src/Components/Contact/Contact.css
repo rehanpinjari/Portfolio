@@ -1,0 +1,55 @@
+.contact {
+  background-color: black;
+  margin: 0rem -5.3rem;
+  height: 500px;
+}
+
+.contact_me {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+
+.contact_me_cta {
+  font-family: "Poppins", sans-serif;
+  color: aliceblue;
+  font-size: 4.5rem;
+  font-weight: 500;
+  text-align: start;
+  float: left;
+  padding: 4rem 6rem;
+}
+
+.contact_link {
+  display: flex;
+  margin: 0rem -0rem;
+  font-family: "Pathway Extreme", sans-serif;
+  color: aliceblue;
+  font-size: 4.5rem;
+  font-weight: 500;
+  float: left;
+}
+
+.contact_link {
+  text-decoration: none;
+}
+
+.contact_link:hover {
+  color: aliceblue;
+  background-size: 0 3px, 100% 3px;
+}
+
+.contact_link {
+  background: linear-gradient(to right, rgb(255, 255, 255), rgb(245, 255, 255)),
+    linear-gradient(
+      to right,
+
+      #ff0059,
+      #ffcb00,
+      #00cf68
+    );
+  background-size: 100% 3px, 0 3px;
+  background-position: 100% 100%, 0 100%;
+  background-repeat: no-repeat;
+  transition: background-size 400ms;
+}

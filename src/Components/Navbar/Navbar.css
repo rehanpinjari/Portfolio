@@ -1,0 +1,18 @@
+.navbar {
+  /* Use flexbox to center the menu */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 4rem 0rem;
+  /* Add some styling */
+}
+
+.navbar-brand {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: -1rem 0rem;
+  font-family: 'Pathway Extreme', sans-serif;
+  font-weight: 600;
+  font-size: 1.8rem;
+}
