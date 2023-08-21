@@ -25,7 +25,7 @@ I am a passionate Web Developer with a strong interest in ReactJS and Web Design
 
 ### [Buildo](#)
 
-![Buildo](/media/hp/107 GB Volume1/WebDev/Projects/portfolio/src/Assests/Project/Buildo.png)
+![Buildo](src/Assests/Project/Buildo.png)
 
 - **Description**: Buildo: Your Path to Digital Excellence. Create breathtaking websites effortlessly. Unleash creativity, design flawlessly responsive pages. Elevate your brand, captivate your audience. Join the future of web design.
 - **Demo**: https://buildoo.netlify.app/
