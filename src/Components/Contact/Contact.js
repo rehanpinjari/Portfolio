@@ -1,5 +1,5 @@
 import React from "react";
-import "/media/hp/107 GB Volume1/WebDev/Projects/portfolio/src/Components/Contact/Contact.css";
+import "/media/hp/107 GB Volume1/WebDev/30ProjectsToMasterWebDev/01__Portfolio/portfolio/src/Components/Contact/Contact.css";
 
 const Contact = () => {
   return (

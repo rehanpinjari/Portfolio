@@ -1,7 +1,7 @@
 import React from "react";
-import "/media/hp/107 GB Volume1/WebDev/Projects/portfolio/src/Components/RelatedLinks/RelatedLinks.css";
+import "/media/hp/107 GB Volume1/WebDev/30ProjectsToMasterWebDev/01__Portfolio/portfolio/src/Components/RelatedLinks/RelatedLinks.css";
 // import Logo2 from "/media/hp/107 GB Volume/WebDev/Projects/portfolio/src/Assests/Logo2.png";
-import PortfolioLogoShape from "/media/hp/107 GB Volume1/WebDev/Projects/portfolio/src/Assests/PortfolioLogoShape.png";
+import PortfolioLogoShape from "/media/hp/107 GB Volume1/WebDev/30ProjectsToMasterWebDev/01__Portfolio/portfolio/src/Assests/PortfolioLogoShape.png";
 
 const RelatedLinks = () => {
   return (

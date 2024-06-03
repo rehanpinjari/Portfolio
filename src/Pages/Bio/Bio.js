@@ -1,5 +1,5 @@
 import React from "react";
-import "/media/hp/107 GB Volume1/WebDev/Projects/portfolio/src/Pages/Bio/bio.css";
+import "/media/hp/107 GB Volume1/WebDev/30ProjectsToMasterWebDev/01__Portfolio/portfolio/src/Pages/Bio/bio.css";
 
 const Bio = () => {
   return (

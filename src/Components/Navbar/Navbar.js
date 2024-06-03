@@ -1,8 +1,8 @@
 import React from "react";
 import { BsGithub, BsLinkedin, BsMedium } from "react-icons/bs";
 import { Link } from "react-router-dom";
-import PortfolioLogoShape from "/media/hp/107 GB Volume1/WebDev/Projects/portfolio/src/Assests/PortfolioLogoShape.png";
-import "/media/hp/107 GB Volume1/WebDev/Projects/portfolio/src/Components/Navbar/Navbar.css"; // Assuming you have a separate CSS file for Navbar styles
+import PortfolioLogoShape from "/media/hp/107 GB Volume1/WebDev/30ProjectsToMasterWebDev/01__Portfolio/portfolio/src/Assests/PortfolioLogoShape.png";
+import "/media/hp/107 GB Volume1/WebDev/30ProjectsToMasterWebDev/01__Portfolio/portfolio/src/Components/Navbar/Navbar.css"; // Assuming you have a separate CSS file for Navbar styles
 
 const Navbar = () => {
   return (

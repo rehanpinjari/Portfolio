@@ -1,12 +1,12 @@
 import React from "react";
-import "/media/hp/107 GB Volume1/WebDev/Projects/portfolio/src/Components/Projects/Projects.css";
+import "/media/hp/107 GB Volume1/WebDev/30ProjectsToMasterWebDev/01__Portfolio/portfolio/src/Components/Projects/Projects.css";
 
-import SOSDoc from "/media/hp/107 GB Volume1/WebDev/Projects/portfolio/src/Assests/Project/SOSDoc.png";
-import Buildo from "/media/hp/107 GB Volume1/WebDev/Projects/portfolio/src/Assests/Project/Buildo.png";
-import GiftBazar from "/media/hp/107 GB Volume1/WebDev/Projects/portfolio/src/Assests/Project/GiftBazar.png";
-import Taskio from "/media/hp/107 GB Volume1/WebDev/Projects/portfolio/src/Assests/Project/Taskio.png";
-import WellWords from "/media/hp/107 GB Volume1/WebDev/Projects/portfolio/src/Assests/Project/WellWords.png";
-import CountyZone from "/media/hp/107 GB Volume1/WebDev/Projects/portfolio/src/Assests/Project/CountyZone.png";
+import SOSDoc from "/media/hp/107 GB Volume1/WebDev/30ProjectsToMasterWebDev/01__Portfolio/portfolio/src/Assests/Project/SOSDoc.png";
+import Buildo from "/media/hp/107 GB Volume1/WebDev/30ProjectsToMasterWebDev/01__Portfolio/portfolio/src/Assests/Project/Buildo.png";
+import GiftBazar from "/media/hp/107 GB Volume1/WebDev/30ProjectsToMasterWebDev/01__Portfolio/portfolio/src/Assests/Project/GiftBazar.png";
+import Taskio from "/media/hp/107 GB Volume1/WebDev/30ProjectsToMasterWebDev/01__Portfolio/portfolio/src/Assests/Project/Taskio.png";
+import WellWords from "/media/hp/107 GB Volume1/WebDev/30ProjectsToMasterWebDev/01__Portfolio/portfolio/src/Assests/Project/WellWords.png";
+import CountyZone from "/media/hp/107 GB Volume1/WebDev/30ProjectsToMasterWebDev/01__Portfolio/portfolio/src/Assests/Project/CountyZone.png";
 
 const Projects = () => {
   return (

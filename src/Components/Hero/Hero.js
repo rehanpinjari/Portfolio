@@ -1,6 +1,6 @@
 import React from "react";
-import "/media/hp/107 GB Volume1/WebDev/Projects/portfolio/src/Components/Hero/Hero.css";
-import PortfolioHero from "/media/hp/107 GB Volume1/WebDev/Projects/portfolio/src/Assests/PortfolioHero.png";
+import "/media/hp/107 GB Volume1/WebDev/30ProjectsToMasterWebDev/01__Portfolio/portfolio/src/Components/Hero/Hero.css";
+import PortfolioHero from "/media/hp/107 GB Volume1/WebDev/30ProjectsToMasterWebDev/01__Portfolio/portfolio/src/Assests/PortfolioHero.png";
 
 const Hero = () => {
   return (
